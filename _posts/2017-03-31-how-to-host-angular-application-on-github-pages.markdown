@@ -2,6 +2,7 @@
 layout: post
 title:  "How to host Angular application on GitHub Pages"
 date:   2017-03-31 15:26:55 -0400
+permalink: /how-to-host-angular-application-on-github-pages.html
 categories: angular github
 published: true
 ---
