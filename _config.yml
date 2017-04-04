@@ -24,6 +24,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  gatezh
 
+google_analytics: UA-30716629-2
+disqus:
+    shortname: gatezh-com.disqus.com
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -33,4 +37,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   
-google_analytics: UA-30716629-2
+
