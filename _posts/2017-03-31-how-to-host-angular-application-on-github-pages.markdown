@@ -6,6 +6,7 @@ permalink: /how-to-host-angular-application-on-github-pages.html
 categories: angular github
 published: true
 ---
+**[Last update 04-04-2017]**
 
 To install the command run the following:
 
@@ -20,7 +21,7 @@ ng build --prod --base-href "https://USERNAME.github.io/REPOSITORY/"
 ngh
 ```
 
-If you have a custom domain you should use `http` instead
+In case you use a custom domain for one of your repositories (like I do for this blog), you should use `http` instead
 
 ```
 ng build --prod --base-href "http://YOURDOMAIN.com/REPOSITORY/"
