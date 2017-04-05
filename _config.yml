@@ -25,7 +25,7 @@ url: "https://gatezh.com" # the base hostname & protocol for your site, e.g. htt
 github_username:  gatezh
 
 google_analytics: UA-30716629-2
-yandex_metrika: 43999289
+yandex_metrica: 43999289
 disqus:
     shortname: gatezh-com
 
