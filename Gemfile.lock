@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/jekyll/minima.git
+  revision: c8c006361d02124e71567599f058316533abae29
+  branch: master
+  specs:
+    minima (2.1.0)
+      jekyll (~> 3.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -29,8 +37,6 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
-    minima (2.1.0)
-      jekyll (~> 3.3)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -47,7 +53,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.4.3)
   jekyll-feed (~> 0.6)
-  minima (~> 2.0)
+  minima!
   tzinfo-data
 
 RUBY VERSION
