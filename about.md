@@ -4,12 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello there!  
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+My name is **Sergii Gatezh** and I am a front-end web developer from Toronto.  
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+This is a draft of About page and later it will be slightly improved, but if you want to learn more about what I do *right now* please, check the following links:
+
+
+- [GitHub](https://github.com/gatezh) where you can find some of my projects with a live preview, in particular:
+	- [Angular auction app](/Auction-app) – work in progress...
+	- [Angular online store](ng-shop) – work in progress...
+	- some [HTML/CSS projects](https://github.com/gatezh/DEMO-2)
+	- [solutions](https://github.com/gatezh/FreeCodeCamp) for Free Code Camp's algorithm assignments 
+- [LinkedIn](www.linkedin.com/in/sergii-gatezh)
+- my [Resume](http://bit.ly/2ptMjKM) – I am looking for a job, so refer me to your employer (seriously)
+
+
+Feel free to contact me if you have any questions.
+
+Cheers!
