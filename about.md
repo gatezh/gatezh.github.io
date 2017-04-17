@@ -18,7 +18,7 @@ This is a draft of About page and later it will be slightly improved, but if you
 	- some [HTML/CSS projects](https://github.com/gatezh/DEMO-2)
 	- [solutions](https://github.com/gatezh/FreeCodeCamp) for Free Code Camp's algorithm assignments 
 - [LinkedIn](www.linkedin.com/in/sergii-gatezh)
-- my [Resume](http://bit.ly/2ptMjKM) – I am looking for a job, so refer me to your employer (seriously)
+- my [Resume](http://bit.ly/gatezh-resume) – I am looking for a job, so refer me to your employer (seriously)
 
 
 Feel free to contact me if you have any questions.
