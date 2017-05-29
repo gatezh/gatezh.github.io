@@ -1,0 +1,54 @@
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+    padding-bottom: 1.5rem;
+    position: relative;
+}
+
+h1 {
+    font-family: 'Exo', sans-serif;
+}
+
+h2 {
+    font-family: 'Rosario', sans-serif;
+}
+
+p {
+    font-family: 'Mukta Vaani', sans-serif;
+}
+
+/* Add some space from the top of the page when scrolled to an anchor */
+a[name] {
+    padding-top: 80px;
+    margin-top: -80px;
+    display: inline-block;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-around;
+}
+
+.fa-linkedin {
+    color: #014c8c;
+}
+
+.fa-linkedin:hover {
+    color: #0275d8;
+}
+
+.fa-github {
+    color: #0D090A;
+}
+
+.fa-github:hover {
+    color: #606060;
+}
+
+.fa-free-code-camp {
+    color: #006400;
+}
+
+.fa-free-code-camp:hover {
+    color: #008c00;
+}
