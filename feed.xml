@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Serge Gatezh</title>
+<link>https://gatezh.com/</link>
+<description>This feed has moved to https://gatezh.com/index.xml</description>
+<item>
+<title>This blog has moved to gatezh.com</title>
+<link>https://gatezh.com/</link>
+<guid isPermaLink="false">gatezh-github-io-moved-2026-11</guid>
+<pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+<description>New posts are published at https://gatezh.com/. Subscribe to https://gatezh.com/index.xml to keep getting them.</description>
+</item>
+</channel>
+</rss>
